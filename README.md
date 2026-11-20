@@ -1,16 +1,20 @@
-## Hi there 👋
+# João Soares
 
-<!--
-**soaresjcr/soaresjcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior data analyst | Power BI · SQL · Excel
 
-Here are some ideas to get you started:
+I am based in Beja, Portugal, and I am transitioning from healthcare operations into data analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Radiology operations experience since 2008, including exam scheduling and recurring Excel reports.
+- Portfolio projects in Power BI, SQL and relational data modelling.
+- Google Data Analytics Professional Certificate in progress.
+- Seeking a fully remote junior data analyst role.
+
+## Portfolio
+
+[Explore my data analytics projects](https://github.com/soaresjcr/portfolio-data-analyst)
+
+The repository includes a radiology analytics project, a clinical SQL database and healthcare and financial dashboards. Clinical records used in these projects are fictitious demonstration data, not patient records from my employer.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/joao-soares-843a05240/) · [Email](mailto:soares.jcr@gmail.com)
